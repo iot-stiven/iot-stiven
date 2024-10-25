@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<h1>Dedison Stiven Peña Soto</h1>
-
 <!--
 **iot-stiven/iot-stiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
